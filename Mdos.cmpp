@@ -1,0 +1,3 @@
+if User == "Test":
+	print("test")
+#this is a example
